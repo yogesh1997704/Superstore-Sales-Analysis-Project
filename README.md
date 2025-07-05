@@ -1,4 +1,4 @@
-                                                     PROJECT TITLE ->  ***E-Commerce Sales and Profit Using Python***
+                                           PROJECT TITLE ->  ***E-Commerce Sales and Profit Using Python***
 
 
 *PROJECT DESCRIPTION*->  This Project Analysis Sales and Profit data from an E-Commerce Superstore using Python libraries such as Pandas and Plotly.the goal is to identify Monthly trends,Profitable Product Categories and Sub-Categories, and Performance across Customer Segment.  
